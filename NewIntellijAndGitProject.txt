@@ -1,0 +1,13 @@
+How to create a new intellij and version control git 
+
+1) create a new project 
+2) under the VCS tab choose Enable version controlintegration
+3) select git from the dropdown menu 
+4) right click on the project folder in intellij
+5) new ignore.file --> .gitignor file (Git)
+6) choose from the template based on your project tech
+7) add in the ignore file .idea and *.iml 
+
+on the bottom left of the screen you can see a list button that will take you to Version control
+
+from this screen you can commit push pull. 
