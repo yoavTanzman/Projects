@@ -11,3 +11,12 @@ How to create a new intellij and version control git
 on the bottom left of the screen you can see a list button that will take you to Version control
 
 from this screen you can commit push pull. 
+
+open Github
+create new repo 
+copy the url 
+go to vcs
+go to git -----> add remotes 
+add remote----> add the url 
+click ok
+now in vcs you can go to Git and push 
